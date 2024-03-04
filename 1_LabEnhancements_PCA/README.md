@@ -1,3 +1,5 @@
+- Anis Hazirah binti Mohamad Sabry (1211300373) - PCA 
+
 Enhancements made :
 
 - Clarification of the PCA method

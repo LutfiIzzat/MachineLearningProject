@@ -1,3 +1,6 @@
+- Nuha Awadah binti Mohd Yusof (1211303209) - Linear Regression
+
+
 Enhancements made in the Project :-
 
 - Explaining Simple/ Univariate Linear Regression

@@ -1,3 +1,5 @@
+- Ong Shi Yi (1201101485) - K-Means
+
 Lab enhancements made for Kmeans :-
 
 - [Types of Clustering]
