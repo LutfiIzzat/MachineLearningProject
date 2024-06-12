@@ -26,9 +26,18 @@ The contribution list is as follows :-
 The project is done in hopes to find the likelihood of adoption between cats and dogs, and what features that 
 can increase it's chance for adoption.
 
+##WELCOME TO PET FINDERS ANALYSIS
 
+##Objective: 
+Between cats and dogs, which of these animals are more likely to get adopted?
 
-**Video Submission**
+##Objective 2: 
+What features can increase the likelihood of adoption?
+
+##Motivation : 
+There undeniably an absurd amount of stray animals on the street, so what enchances their appeal for adoption? This project investigates the compenents that make up these adorable fur-balls, and which of these features would get them their forever home.
+
+##Video Submission
 The video link is down below.
 
 https://youtu.be/a6PTJ9n5Lrc
