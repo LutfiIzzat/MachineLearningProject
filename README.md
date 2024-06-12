@@ -38,3 +38,16 @@ There undeniably an absurd amount of stray animals on the street, so what enchan
 The video link is down below.
 
 https://youtu.be/a6PTJ9n5Lrc
+
+## Prediction Analysis
+
+for the dataset, the graph (taken from LogisticRegression) below shows how important a feature is for the likelihood of adoption for both cats and dogs. It can be seen that maturitysize matters the most in a lot of cases, followed by wether or not the animal is vaccinated, and then by gender, age and fur length.
+
+Most of the features shown are genetic-based, except for the vaccination feature. With this, the chances of a cat or a dog being adopted can be further increased by vaccinating the animal.
+
+<table>
+  <tr>
+    <td><img src="demo/Prediction_Analysis.png" alt="Prediction Analysis"></td>
+    <td><img src="demo/Permutation_Importance.png" alt="Permutation Importance"></td>
+  </tr>
+  <tr>
