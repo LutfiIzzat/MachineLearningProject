@@ -26,7 +26,7 @@ The contribution list is as follows :-
 The project is done in hopes to find the likelihood of adoption between cats and dogs, and what features that 
 can increase it's chance for adoption.
 
-##WELCOME TO PET FINDERS ANALYSIS
+##WELCOME TO PET FINDERS ANALYSIS##
 
 ##Objective: 
 Between cats and dogs, which of these animals are more likely to get adopted?
