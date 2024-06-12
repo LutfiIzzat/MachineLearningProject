@@ -45,9 +45,18 @@ for the dataset, the graph (taken from LogisticRegression) below shows how impor
 
 Most of the features shown are genetic-based, except for the vaccination feature. With this, the chances of a cat or a dog being adopted can be further increased by vaccinating the animal.
 
-<table>
+
   <tr>
     <td><img src="demo/Prediction_Analysis.png" alt="Prediction Analysis"></td>
+  </tr>
+  <tr>
     <td><img src="demo/Permutation_Importance.png" alt="Permutation Importance"></td>
   </tr>
   <tr>
+
+## Conclusion
+
+As the dataset was presented in a categorical format, showcasing that it isn't compabitible with using several machine learning techniques.
+In terms of PCA, and Linear Regression, and KMeans, the initial usage of these algorithms were designed to handle continous data. As a result, the outcome of these algorthims revealed low quality results. Logistic regression on the other hand, was designed to handle categorical data flawlessly, resulting in a high accuracy on the training and testing data.
+
+Other methods that are more equipped to handle categorical data, such as Support Vector Machines, would be more appropriate to be used for this dataset. Ensemble methods such as Random Forests and Gradient Boosting would effictively handle both numerical and categorical data with ease.
