@@ -19,7 +19,7 @@ The contribution list is as follows :-
 - Anis Hazirah binti Mohamad Sabry (1211300373) - Data Preparation, Exploratory Data Analysis, PCA Implementation
 - Muhammad Lutfi bin Mohd Izzat (1201100521) - Logistic Regression, Adoption Prediction Analysis
 - Ong Shi Yi (1201101485) - K-Means
-- - Nuha Awadah binti Mohd Yusof (1211303209) - Linear Regression
+- Nuha Awadah binti Mohd Yusof (1211303209) - Linear Regression
 
 # Pet Finders Analysis
 
